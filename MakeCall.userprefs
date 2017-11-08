@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{33113F02-E0EF-4D2D-A5BA-BD3752CE56DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MakeCall/MainActivity.cs">
+    <Files>
+      <File FileName="MakeCall/MainActivity.cs" Line="48" Column="75" />
+      <File FileName="MakeCall/Properties/AndroidManifest.xml" Line="9" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MakeCall AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_21" />
+  <MultiItemStartupConfigurations />
+</Properties>
